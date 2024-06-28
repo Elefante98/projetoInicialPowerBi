@@ -9,7 +9,7 @@ Esse é um projeto desenvolvido no Bootcamp Data analyst com Power Bi da DIO. Ne
 ## 🗂️ Base de dados
 Você pode encontrar o arquivo .csv do Diabetes dataset no link: https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
-O arquivo da sample do Power BI está inserido na pasta data
+O arquivo da sample do Power BI é padrão e pode ser acessado por qualquer um, ao escolher a opção "aprender com dados de amostra".
 
 
 ## ❓ Em caso de dúvidas
